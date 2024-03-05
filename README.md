@@ -1,12 +1,7 @@
-<div dir='rtl' lang='he'>
-
 # Multiplayer games using Photon Fusion
-  This is two players game , in this game you can shot at your enemy and by doing so you will earn points , you starts the game with 100 health point and    
-  every time the enemy shoots at you 2 points will be decreased.
 
-# Itch link - 
-  https://asaftk1.itch.io/ex9-multiplayers
+This is a two-player game where you can shoot at your enemy to earn points. You start the game with 100 health points, and every time the enemy shoots at you, 2 points will be deducted.
 
+## Itch link
 
-
-</div>
+[Link to the game on Itch.io](https://asaftk1.itch.io/ex9-multiplayers)
