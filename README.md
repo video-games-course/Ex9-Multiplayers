@@ -1,8 +1,8 @@
 <div dir='rtl' lang='he'>
 
 # Multiplayer games using Photon Fusion
-
-Code based on the [Fusion Shared Mode Tutorial](https://doc.photonengine.com/fusion/current/tutorials/shared-mode-basics/overview).
+This is two players game , in this game you can shot at your enemy and by doing so you will earn points , you starts the game with 100 health point and every time the enemy shoots at you 2 points will be decreased.
+Itch link - https://asaftk1.itch.io/ex9-multiplayers
 
 
 
